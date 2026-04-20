@@ -1,15 +1,36 @@
-## Hi there 👋
-I'm Lucas, a software developer student based in Brazil. 🇧🇷💻
+<h1 align="center">Hello, I'm Lucas Fernandes 👋</h1>
 
-I love solving challenges and difficult problems. 
+<p align="center">
+  <em>Software Development Student</em>
+</p>
 
-If I come across with a hard challenge, chances are that I will try to solve it until I can, doesn't matter the time.
+---
 
-My main tech stack is Java. But of course I will develop more techs in future. 
+I'm passionate about technology and solving problems. Here you will find my course projects and my personal projects.
 
-I post my course projects and my personal projects here.
+---
 
-## 📫 How to reach me:
+### 🧠 About me
+- 🏫 Highschool student (Sophomore year).
+- 📚 Studying software development at SENAI (1° semester).
+- 💡 Deeply interested in programming logic.
+
+---
+
+### 🛠️ Tools
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 💻 Tech Stack Highlights
+
+<p align="center">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdbf&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117" />
+</p>
+
+---
+
+### 📫 How to reach me:
 - 📧 Email: lucasfernandes1829@gmail.com
 - 💼 LinkedIn: Lucas Fernandes: https://www.linkedin.com/in/lucas-fernandes-b16a983a4/
 
