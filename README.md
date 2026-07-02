@@ -6,10 +6,6 @@
 
 ---
 
-I'm passionate about technology and solving problems. Here you will find my course projects and my personal projects.
-
----
-
 ### 🧠 About me
 - 🏫 Highschool student (Sophomore year).
 - 📚 Studying software development at SENAI (1° semester).
