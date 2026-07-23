@@ -8,7 +8,7 @@
 
 ### 🧠 About me
 - 🏫 Highschool student (Sophomore year).
-- 📚 Studying software development at SENAI (1° semester).
+- 📚 Studying software development at SENAI (2° semester).
 - 💡 Deeply interested in programming logic.
 
 ---
