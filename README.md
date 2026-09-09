@@ -1,24 +1,24 @@
-<h1 align="center">Hello, I'm Lucas Fernandes 👋</h1>
+<h1 align="center"> Lucas Fernandes 💻 </h1>
 
 <p align="center">
-  <em>Software Development Student</em>
+  <em>Estudante de Desenvolvimento de Sistemas</em>
 </p>
 
 ---
 
-### 🧠 About me
-- 🏫 Highschool student (Sophomore year).
-- 📚 Studying software development at SENAI (2° semester).
-- 💡 Deeply interested in programming logic.
+### 🧠 Sobre mim
+- 🏫 Estudante do Ensino Médio (2° Ano)
+- 📚 Estudando Desenvolvimento de Sistemas no SENAI (2° Semestre)
+- 💡 Muito interessado em lógica de programação e inteligência artificial
 
 ---
 
-### 🛠️ Tools
+### 🛠️ Ferramentas
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📫 How to reach me:
+### 📫 Como me contatar:
 - 📧 Email: lucasfernandes1829@gmail.com
 - 💼 LinkedIn: Lucas Fernandes: https://www.linkedin.com/in/lucas-fernandes-b16a983a4/
 
