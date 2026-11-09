@@ -9,7 +9,7 @@
 ### 🧠 Sobre mim
 - 🏫 Estudante do Ensino Médio (2° Ano)
 - 📚 Estudando Desenvolvimento de Sistemas no SENAI (2° Semestre)
-- 💡 Muito interessado em lógica de programação e inteligência artificial
+- 💡 Muito interessado em automações e inteligência artificial
 
 ---
 
